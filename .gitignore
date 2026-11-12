@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+checkpoints/
+*.npy
+*.pth
+*.pt
+
+# Downloaded/generated datasets are not part of the supplementary source package.
+raw_data/
+data/**/*.csv
+data/**/*.zip
+data/**/*.tar*
+data/**/*.gz
+.capl-download-*/
+.capl-prepare-*/

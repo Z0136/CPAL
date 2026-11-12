@@ -1,0 +1,6 @@
+# Python 3.11; tested versions. Install the appropriate PyTorch CPU/CUDA build.
+torch==2.6.0
+numpy==2.1.2
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.7.2
